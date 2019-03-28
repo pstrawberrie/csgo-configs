@@ -1,1 +1,1 @@
--freq 240 -tickrate 64 +clientport 27015 -novid +exec pstraw.cfg
+-freq 144 -tickrate 64 +clientport 27015 -novid +exec pstraw.cfg
